@@ -18,16 +18,15 @@ Cooking · Philosophy · Gaming · Fashion · Literature · Badminton · Music �
 
 ### Currently
 
-**🎮 Playing** — Deadlock *(Eternus 4)*
-
-| | |
-|---|---|
-| **🎵 Listening to** | Winter Wine — Caravan &nbsp; [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat-square)](https://open.spotify.com/track/6OgFTnpmp0lxjQ8P5dCKyH?si=79db0964b0264ebc) [![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C?logo=apple-music&logoColor=white&style=flat-square)](https://music.apple.com/us/song/winter-wine/1443216983) |
-| **📖 Reading** | *Kokoro* — Natsume Sōseki |
-| **📺 Watching** | Ping Pong the Animation |
-| **👔 Wearing** | De Bonne Facture |
-| **🎬 Rewatching** | *Cure* — Kiyoshi Kurosawa |
-| **🌿 Wearing** | Oud for Greatness — Initio |
+<table>
+  <tr><td><b>🎮 Playing</b></td><td>Deadlock — <i>Eternus 4</i></td><td align="right"><a href="https://steamcommunity.com/profiles/76561199052030643/"><img src="https://img.shields.io/badge/-000000?logo=steam&logoColor=white&style=flat-square&label="></a> <a href="https://www.youtube.com/@iDarkCryo"><img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white&style=flat-square&label="></a></td></tr>
+  <tr><td><b>🎵 Listening to</b></td><td>Winter Wine — Caravan</td><td align="right"><a href="https://open.spotify.com/track/6OgFTnpmp0lxjQ8P5dCKyH"><img src="https://img.shields.io/badge/-1DB954?logo=spotify&logoColor=white&style=flat-square&label="></a> <a href="https://music.apple.com/us/song/winter-wine/1443216983"><img src="https://img.shields.io/badge/-FA243C?logo=apple-music&logoColor=white&style=flat-square&label="></a></td></tr>
+  <tr><td><b>📖 Reading</b></td><td><i>Kokoro</i> — Natsume Sōseki</td><td align="right"><a href="https://www.goodreads.com/user/show/167589366-f-lix"><img src="https://img.shields.io/badge/-553B08?logo=goodreads&logoColor=white&style=flat-square&label="></a></td></tr>
+  <tr><td><b>📺 Watching</b></td><td>Ping Pong the Animation</td><td align="right"><a href="https://myanimelist.net/profile/Visiblo"><img src="https://img.shields.io/badge/-2E51A2?logo=myanimelist&logoColor=white&style=flat-square&label="></a></td></tr>
+  <tr><td><b>👔 Wearing</b></td><td>De Bonne Facture</td><td align="right"><a href="https://www.mrporter.com/en-us/wishlist/4911006/-11eba87c:184ba68c54b:1c99"><img src="https://img.shields.io/badge/👔-1B1B1B?style=flat-square"></a></td></tr>
+  <tr><td><b>🎬 Rewatching</b></td><td><i>Cure</i> — Kiyoshi Kurosawa</td><td align="right"><a href="https://letterboxd.com/Visiblo/"><img src="https://img.shields.io/badge/-202830?logo=letterboxd&logoColor=white&style=flat-square&label="></a></td></tr>
+  <tr><td><b>🌿 Wearing</b></td><td>Oud for Greatness — Initio</td><td align="right"><a href="https://www.fragrantica.com/member/1500479"><img src="https://img.shields.io/badge/🧴-C26B8A?style=flat-square"></a></td></tr>
+</table>
 
 ---
 
